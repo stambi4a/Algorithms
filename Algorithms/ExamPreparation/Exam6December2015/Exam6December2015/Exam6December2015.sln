@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequences", "Sequences\Sequences.csproj", "{DB9B9070-586C-409E-88C0-2D36AF310DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridges", "Bridges\Bridges.csproj", "{134B3D5F-7342-4A5B-9A08-25193C0B675F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageSharing", "MessageSharing\MessageSharing.csproj", "{1B682D4D-975C-4B41-9B94-436FE67601E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedRectangles", "NestedRectangles\NestedRectangles.csproj", "{A278C480-0C68-4B6C-BB1F-C1F69E2C122D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9B9070-586C-409E-88C0-2D36AF310DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9B9070-586C-409E-88C0-2D36AF310DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9B9070-586C-409E-88C0-2D36AF310DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9B9070-586C-409E-88C0-2D36AF310DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134B3D5F-7342-4A5B-9A08-25193C0B675F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134B3D5F-7342-4A5B-9A08-25193C0B675F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134B3D5F-7342-4A5B-9A08-25193C0B675F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134B3D5F-7342-4A5B-9A08-25193C0B675F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B682D4D-975C-4B41-9B94-436FE67601E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B682D4D-975C-4B41-9B94-436FE67601E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B682D4D-975C-4B41-9B94-436FE67601E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B682D4D-975C-4B41-9B94-436FE67601E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A278C480-0C68-4B6C-BB1F-C1F69E2C122D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A278C480-0C68-4B6C-BB1F-C1F69E2C122D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A278C480-0C68-4B6C-BB1F-C1F69E2C122D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A278C480-0C68-4B6C-BB1F-C1F69E2C122D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

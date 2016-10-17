@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. CableNetwork", "Problem 1. CableNetwork\Problem 1. CableNetwork.csproj", "{A266F92F-71B7-4AB7-811C-69D96D87D474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Modified Kruskal Algorithm", "Problem 2. Modified Kruskal Algorithm\Problem 2. Modified Kruskal Algorithm.csproj", "{9FE38FBD-5CC2-426D-BAB0-A8DEA4BF4BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. MostReliablePath", "Problem 3. MostReliablePath\Problem 3. MostReliablePath.csproj", "{7A927442-8CB3-46A5-8778-7A4FFA00F1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A266F92F-71B7-4AB7-811C-69D96D87D474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A266F92F-71B7-4AB7-811C-69D96D87D474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A266F92F-71B7-4AB7-811C-69D96D87D474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A266F92F-71B7-4AB7-811C-69D96D87D474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE38FBD-5CC2-426D-BAB0-A8DEA4BF4BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE38FBD-5CC2-426D-BAB0-A8DEA4BF4BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE38FBD-5CC2-426D-BAB0-A8DEA4BF4BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE38FBD-5CC2-426D-BAB0-A8DEA4BF4BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A927442-8CB3-46A5-8778-7A4FFA00F1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A927442-8CB3-46A5-8778-7A4FFA00F1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A927442-8CB3-46A5-8778-7A4FFA00F1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A927442-8CB3-46A5-8778-7A4FFA00F1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
